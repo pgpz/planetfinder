@@ -1,13 +1,26 @@
-<h1> hi i made this when i was bored n just practicing but please make sure you have the right dependencies!! </h1> 
+<h1>pgp's planet finder; find the exact coordinates of a planet inside of the solar system!</h1>
+<h2>make sure you have Python downloaded!!!!</h2>
 
-this just shows the exact coordinates of a planet at any time.
+### dependencies needed
 
-packed with 2 personal commands of which use $
+u need this to run this script
 
-to find a planet, do $loc (planet) 
+* pip install astropy numpy
 
-to find coords of said planet, run $co right after
+### Installation
 
-to exit, do $exit 
+A step by step guide that will tell you how to get the development environment up and running.
 
-that is all :D
+```
+run pip command & type python planetfinder.py inside of your terminal to run this script
+```
+
+## Usage
+
+A few examples of useful commands and/or tasks.
+
+```
+$co (coords of a planet)
+$loc (type a planet right after this)
+$exit
+```
