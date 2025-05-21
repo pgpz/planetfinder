@@ -7,7 +7,6 @@
 
 ```
 pip install astropy numpy
-
 ```
 <h1>how to start planet finder</h1>
 
