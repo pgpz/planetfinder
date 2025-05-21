@@ -7,17 +7,14 @@ u need this to run this script
 
 * pip install astropy numpy
 
-### Installation
-
-A step by step guide that will tell you how to get the development environment up and running.
+<h1>type this inside of your terminal right after installing astropy & numpy</h1>
 
 ```
-run pip command & type python planetfinder.py inside of your terminal to run this script
+python planetfinder.py
 ```
 
-## Usage
-
-A few examples of useful commands and/or tasks.
+<h1>commands for planet finder</h1>
+-----------------------------
 
 ```
 $co (coords of a planet)
